@@ -1,0 +1,68 @@
+body{
+   border:#00bfc5;
+    border-radius: 10px;
+    opacity: 2;
+    background-image: url("pinic.jpg")
+
+}
+*{
+    border: 400px;
+    margin:0px
+}
+
+
+.intro{
+    margin:5px;
+    display: flex;
+    text-decoration-line: none;
+    color:#f7fff5;
+    font-family:sans-serif;
+    border:#00bfc5;
+    border-radius: 90px;
+    background-color: lightpink;
+    display: flex;
+ justify-content: space-between;
+ 
+    flex-shrink:  7;
+}
+
+.pizza{
+    display: flex;
+   
+    text-decoration-line: none;
+    color: rgb(229, 229, 236);
+   font-family: sans-serif;
+    background-color: lightpink;
+   
+
+}
+.paneer{
+    display: flex;
+    text-decoration-line: none;
+    color:#f6f6f6;
+    font-family: sans-serif;
+    border: #affa98;
+    border-color: solid;
+    
+    background-color:lightsalmon
+}
+.Dosa{
+    display: flex;
+    text-decoration-line: none;
+    color: rgba(255, 255, 255, 0.774);
+    font-family: sans-serif;
+    background-color: lightskyblue;
+}
+.burritos{
+    padding-left: 230px;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    display: flex;
+    text-decoration-line:none;
+    color: rgba(253, 253, 253, 0.801);
+    font-family: sans-serif;
+background-color: lightskyblue;
+}
+.biryani{
+    padding-left: 400px;
+}
